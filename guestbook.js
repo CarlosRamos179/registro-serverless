@@ -1,7 +1,7 @@
 /**
  * App
  */
-const apiUrl = 'https://1c9a0fa7.eu-de.apiconnect.appdomain.cloud/guestbook';
+const apiUrl = '';
 const guestbook = {
   // recupera las entradas existentes del registro de visitas
   get() {
